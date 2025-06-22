@@ -1,0 +1,27 @@
+{
+  "name": "gemini-chatbot-api",
+  "version": "1.0.0",
+  "description": "Session 4 Kode.id - Stefanus Eko Prasetyo",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stprasst/gemini-chatbot-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stprasst/gemini-chatbot-api/issues"
+  },
+  "homepage": "https://github.com/stprasst/gemini-chatbot-api#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
